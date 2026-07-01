@@ -1,0 +1,23 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\Srividya\OneDrive\Desktop\RO\Design\5 Stage Ring Oscillator.net
+Start Time: Tue Jun 30 15:43:12 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.183 seconds.
+
+Files loaded:
+C:\Users\Srividya\OneDrive\Desktop\RO\Design\5 Stage Ring Oscillator.net
+C:\Users\Srividya\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\Srividya\OneDrive\Desktop\RO\TSMC180nm.lib
+
+tperiod=6.05992723156e-10 FROM 2.75895301923e-09 TO 3.36494574238e-09
+frequency: 1/Tperiod=1650184831.91
+tpd=5.70296691593e-11 FROM 2.51660603967e-09 TO 2.57363570883e-09
